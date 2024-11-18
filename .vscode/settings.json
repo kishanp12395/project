@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 13,
+    "editor.wordWrap": "on",
+    "scm.diffDecorationsGutterWidth": 3,
+    "scm.inputFontSize": 10,
+    "editor.accessibilityPageSize": 10
+}
